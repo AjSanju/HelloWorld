@@ -1,0 +1,5 @@
+<projet name="HelloWorld" default="main" basedir="."/>
+<target name="main">
+  <echo ="Hello This HelloWorld Programe"/>
+</target>              
+</project>
