@@ -1,0 +1,5 @@
+<projet name="Report" default="main" basedir="."/>
+<target name="main">
+  <echo ="This is report generation file "/>
+</target>              
+</project>
